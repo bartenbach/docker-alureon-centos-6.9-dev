@@ -1,1 +1,8 @@
 zsh
+vim
+xmonad
+xmonad-contrib
+rxvt-unicode
+tmux
+git
+go

@@ -1,3 +1,2 @@
 #!/bin/sh
-
-yum install -y $(cat packages.txt)
+yum install -y $(cat /tmp/packages.txt)
