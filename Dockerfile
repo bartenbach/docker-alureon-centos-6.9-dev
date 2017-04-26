@@ -13,3 +13,4 @@ RUN /tmp/install-epel.sh
 # install our packages
 RUN /tmp/install.sh
 
+RUN bash
